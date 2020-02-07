@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Storage Furniture -->
+
+  <spessCarp_PileOfHay.label>干草垛</spessCarp_PileOfHay.label>
+  <spessCarp_PileOfHay.description>800份干草堆起的垛。小心，没准有根针在里面。</spessCarp_PileOfHay.description>
+  <spessCarp_PileOfHay_Blueprint.label>干草垛(蓝图)</spessCarp_PileOfHay_Blueprint.label>
+  <spessCarp_PileOfHay_Frame.label>干草垛(建造中)</spessCarp_PileOfHay_Frame.label>
+  <spessCarp_PileOfHay_Frame.description>800份干草堆起的垛。小心，没准有根针在里面。</spessCarp_PileOfHay_Frame.description>
+
+
+  <!-- Chemfuel Barrel -->
+
+  <spessCarp_LargeBarrel.label>燃料罐</spessCarp_LargeBarrel.label>
+  <spessCarp_LargeBarrel.description>由600单位的化合燃料堆成。切记远离明火。</spessCarp_LargeBarrel.description>
+  <spessCarp_LargeBarrel_Blueprint.label>燃料罐(蓝图)</spessCarp_LargeBarrel_Blueprint.label>
+  <spessCarp_LargeBarrel_Frame.label>燃料罐(建造中)</spessCarp_LargeBarrel_Frame.label>
+  <spessCarp_LargeBarrel_Frame.description>由600单位的化合燃料堆成。切记远离明火。</spessCarp_LargeBarrel_Frame.description>
+
+
+  <!-- Box of High Explosive -->
+
+  <spessCarp_HEcrate.label>箱装高爆弹</spessCarp_HEcrate.label>
+  <spessCarp_HEcrate.description>由100颗高爆弹方正堆砌而成。应慎重对待，不是吗？</spessCarp_HEcrate.description>
+  <spessCarp_HEcrate_Blueprint.label>箱装高爆弹(蓝图)</spessCarp_HEcrate_Blueprint.label>
+  <spessCarp_HEcrate_Frame.label>箱装高爆弹(建造中)</spessCarp_HEcrate_Frame.label>
+  <spessCarp_HEcrate_Frame.description>由100颗高爆弹方正堆砌而成。应慎重对待，不是吗？</spessCarp_HEcrate_Frame.description>
+
+
+  <!-- Ingots -->
+
+  <spessCarp_IngotsLarge.label>块堆</spessCarp_IngotsLarge.label>
+  <spessCarp_IngotsLarge.description>用300单位的金属堆放起来的。法老肯定对此影响深刻。</spessCarp_IngotsLarge.description>
+  <spessCarp_IngotsLarge_Blueprint.label>块堆(蓝图)</spessCarp_IngotsLarge_Blueprint.label>
+  <spessCarp_IngotsLarge_Frame.label>块堆(建造中)</spessCarp_IngotsLarge_Frame.label>
+  <spessCarp_IngotsLarge_Frame.description>用300单位的金属堆放起来的。法老肯定对此影响深刻。</spessCarp_IngotsLarge_Frame.description>
+
+
+  <!-- Logs -->
+
+  <spessCarp_Logs.label>木材堆</spessCarp_Logs.label>
+  <spessCarp_Logs.description>用300单位的木材叠放而成。大概这就是松鼠疯了的原因吧。</spessCarp_Logs.description>
+  <spessCarp_Logs_Blueprint.label>木材堆(蓝图)</spessCarp_Logs_Blueprint.label>
+  <spessCarp_Logs_Frame.label>木材堆(建造中)</spessCarp_Logs_Frame.label>
+  <spessCarp_Logs_Frame.description>用300单位的木材叠放而成。大概这就是松鼠疯了的原因吧。</spessCarp_Logs_Frame.description>
+
+
+  <!-- Potato -->
+
+  <spessCarp_Potate.label>巨型土豆堆</spessCarp_Potate.label>
+  <spessCarp_Potate.description>包含300个土豆在内。足以撑过严冬了。</spessCarp_Potate.description>
+  <spessCarp_Potate_Blueprint.label>巨型土豆堆(蓝图)</spessCarp_Potate_Blueprint.label>
+  <spessCarp_Potate_Frame.label>巨型土豆堆(建造中)</spessCarp_Potate_Frame.label>
+  <spessCarp_Potate_Frame.description>包含300个土豆在内。足以撑过严冬了。</spessCarp_Potate_Frame.description>
+
+
+  <!-- Corn -->
+
+  <spessCarp_Korn.label>巨型玉米堆</spessCarp_Korn.label>
+  <spessCarp_Korn.description>足有300个玉米。向高果糖生活迈进！</spessCarp_Korn.description>
+  <spessCarp_Korn_Blueprint.label>巨型玉米堆(蓝图)</spessCarp_Korn_Blueprint.label>
+  <spessCarp_Korn_Frame.label>巨型玉米堆(建造中)</spessCarp_Korn_Frame.label>
+  <spessCarp_Korn_Frame.description>足有300个玉米。向高果糖生活迈进！</spessCarp_Korn_Frame.description>
+
+
+</LanguageData>
